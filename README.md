@@ -1,6 +1,6 @@
 # КодМастер — Лендинг для AI-продукта
 
-![Preview](https://cdn.poehali.dev/templates/landing-page/preview-ru.jpg)
+![Preview](https://cdn.poehali.dev/templates/landing-page/preview-ru-v3.jpg)
 
 Современный лендинг для AI-продукта или SaaS-платформы. Тёмная тема с градиентами, сетка изображений и плавные анимации. Идеально для презентации технологических продуктов, стартапов в сфере искусственного интеллекта.
 
